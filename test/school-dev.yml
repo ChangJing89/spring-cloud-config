@@ -1,9 +1,8 @@
 application:
-  profile: school-prod
+  profile: school-dev
 
 server:
-  port: 10014
-
+  port: 10004
 
 spring:
   datasource:

@@ -1,0 +1,5 @@
+config:
+  uri: http://localhost:9001
+
+eureka:
+  hostname: 172.19.0.3
